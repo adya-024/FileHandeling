@@ -13,13 +13,9 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-Overview
-
-This Java-based file handling utility provides a simple and efficient way to perform basic file operations. The utility is designed to be user-friendly and easy to use, making it a great tool for developers, students, and professionals alike. With this utility, you can create new files, read file content, write to files, delete files, and list files in a directory.
+This Java-based file management utility offers a straightforward and effective solution for executing fundamental file operations. The design prioritizes user-friendliness, rendering it an excellent resource for developers, students, and professionals. With this utility, users have the capability to create new files, read file content, write to existing files, delete files, and list files within a specified directory.
 
 Features
-
-The file handling utility comes with the following features:
 
 The utility encompasses several fundamental features that facilitate effective file management:
 
@@ -30,18 +26,6 @@ The utility encompasses several fundamental features that facilitate effective f
 - Listing Files in a Directory: The utility provides the capability to list all files within a specified directory, thereby enhancing the user's ability to navigate and manage their files effectively.
 
 These features collectively establish the file handling utility as a comprehensive and effective tool for individuals engaged in file management tasks.
-
-Usage
-
-To use the file handling utility, follow these steps:
-
-1. Clone the repository to your local machine using Git.
-2. Compile the Java program using your preferred IDE or command-line interface.
-3. Run the Java program and follow the command-line instructions.
-4. Choose the desired file operation (create, read, write, delete, or list).
-5. Specify the file name and location as prompted.
-
-
 
  Enhancements
 
